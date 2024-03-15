@@ -1,6 +1,6 @@
 {
-  "name": "react-resume-starter",
-  "version": "0.1.0",
+  "name": "@sukog/website",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

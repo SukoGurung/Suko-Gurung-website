@@ -1,0 +1,11 @@
+{
+    "routes": [
+      {
+        "src": "/favicon.ico",
+        "dest": "/images/square.ico",
+        "headers": {
+          "cache-control": "public, max-age=0, must-revalidate"
+        }
+      }
+    ]
+  }
