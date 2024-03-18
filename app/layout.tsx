@@ -7,6 +7,7 @@ import { Footer } from "@/components/footer";
 import React from "react";  
 import { Route, Routes } from "react-router-dom";
 import Head from "next/head";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const inter = Inter({ subsets: ["latin"] });
 
