@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@radix-ui/react-tooltip": "^1.0.7",
+    "@vercel/speed-insights": "^1.0.10",
     "clsx": "^2.0.0",
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.284.0",
