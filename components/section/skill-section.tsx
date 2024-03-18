@@ -17,7 +17,7 @@ export default function SkillSection() {
           <span className="font-bold"> Frontend Tech </span>:
         </div>
         <div className="md:ml-8 text-zinc-700 dark:text-zinc-300">
-          HTML/CSS, React Js, Tailwind css
+          Semantic HTML, Tailwind CSS, React Js, Material UI
         </div>
       </div>
 
