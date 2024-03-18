@@ -66,7 +66,7 @@ export default async function ProjectSection() {
       ), */
       /* head4: "Sep 2023 - Pres.", */
       bulletPoints: [
-        <p key={1}>The financial dashboard web app offers users a clear visualization of their company's Key Performance Indicators (KPIs). Utilizing <b>machine learning (linear regression)</b>, the app can predict future KPIs for the next year as well.</p>
+        <p key={1}>The financial dashboard web app offers users a clear visualization of the Key Performance Indicators (KPIs) of the companies. Utilizing <b>machine learning (linear regression)</b>, the app can predict future KPIs for the next year as well.</p>
       ],
     },
 
