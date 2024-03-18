@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Container } from "@/components/container";
 import React from "react";
 import ActionButton from "@/components/action-button";
