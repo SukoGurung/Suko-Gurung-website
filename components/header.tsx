@@ -15,7 +15,7 @@ export function Header() {
               alt="Portrait"
               width={48}
               height={48}
-              className="w-10 h-10 rounded-half ring-2 ring-zinc-200 dark:ring-zinc-400/40"
+              className="w-10 h-10 rounded-half"
             />
           </Link>
         </div>
