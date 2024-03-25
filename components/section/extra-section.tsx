@@ -48,15 +48,15 @@ export default async function ExtraSection() {
       head1: (
         <ExtraTitle
           image=""
-          title=" Volunteer-Web Developer and Tech Lead:"
+          title=" Volunteer - Web Developer & Tech Lead at EKSCA:"
           link="https://nextjs.org/"
         />
       ),
      
       head2: "Sep 2023 - Pres.",
       bulletPoints: [
-        "used finanacial admin dashboard that has access to user accounts",
-        "This dashboard also predicts the Key performances Index of the next year using regression.",
+        "Maintaining the website and managing web content such as blogs, media files, etc.,to enhance online presence. Currently migrating to WordPress.",
+        "guiding the association on various aspects of technology and their adoption.",
       ],
     },
 
