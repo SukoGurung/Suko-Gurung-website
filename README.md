@@ -8,18 +8,26 @@ My goal is to create an interactive and informative hub where visitors can explo
 
 ---------
 
-🚀 My stack: 
-Build with React and Next js with Typescript.
-Deployed on vercel. 
+🗂️ My stack :   
+
+- build with React and Next js with Typescript.
+- styled with Tailwind CSS.
+- deployed on vercel. 
 
 ---------
 
-It has the following features:
-1. 📱 Super responsive & interactive (mobile-friendly) website 
-2. a resume PDF downloader!
-3. 🌓 Dark/Light Mode + All the animations you desire.
+🚀 It has the following features:
+- super responsive & interactive (mobile-friendly) website 
+- a resume PDF downloader!
+- dark/Light Mode + All the animations you desire.
 
--------
+--------
+
+🐛 Bugs:    
+- need skills to be on same line in the Skills-section.
+- uniform resume pdf downloader across all systems and devices.
+
+---------
 
 🔮 Future ideas:    
 In the coming months, I plan to expand this website to include additional pages such as project showcases, multiple page, svg animation, pet chat integretion, feedback, animation, blog posts, and more. Stay tuned for exciting updates!   
