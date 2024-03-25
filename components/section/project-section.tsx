@@ -49,7 +49,7 @@ export default async function ProjectSection() {
         <ProjectTitle
           image="/images/logos/Findash.png"
           title="Financial Admin Dashboard"
-          link="https://nextjs.org/"
+          link="https://github.com/SukoGurung"
         />
       ),
       head2: (
@@ -75,7 +75,7 @@ export default async function ProjectSection() {
         <ProjectTitle
           image="/images/logos/messaging.png"
           title="Real-Time Messaging App"
-          link="https://nextjs.org/"
+          link="https://github.com/SukoGurung"
         />
       ),
       head2: (
@@ -100,7 +100,7 @@ export default async function ProjectSection() {
         <ProjectTitle
           image="/images/logos/suduko.png"
           title="Suduko - Logic Based Puzzle Game"
-          link="https://tailwindcss.com/"
+          link="https://github.com/SukoGurung"
         />
       ),
       head2: <LabelWithGraphic icon={Icons.Stack} content="Python, Backtracking, Pygame" />,
