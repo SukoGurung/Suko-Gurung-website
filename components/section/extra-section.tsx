@@ -48,7 +48,7 @@ export default async function ExtraSection() {
       head1: (
         <ExtraTitle
           image=""
-          title=" Volunteer - Web Developer & Tech Lead at EKSCA:"
+          title="Volunteer - Web Developer & Tech Lead at EKSCA:"
           link="https://eugene-kathmandu.org/"
         />
       ),
