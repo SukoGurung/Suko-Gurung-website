@@ -49,13 +49,13 @@ export default async function ExtraSection() {
         <ExtraTitle
           image=""
           title=" Volunteer - Web Developer & Tech Lead at EKSCA:"
-          link="https://nextjs.org/"
+          link="https://eugene-kathmandu.org/"
         />
       ),
      
       head2: "Sep 2023 - Pres.",
       bulletPoints: [
-        "Maintaining the website and managing web content such as blogs, media files, etc.,to enhance online presence. Currently migrating to WordPress.",
+        "Maintaining the website and managing web content such as blogs, media files, etc.,to enhance online presence using WordPress.",
         "guiding the association on various aspects of technology and their adoption.",
       ],
     },
@@ -64,15 +64,15 @@ export default async function ExtraSection() {
       head1: (
         <ExtraTitle
           image=""
-          title="Member-Oregon Blockchain Group:"
-          link="https://nextjs.org/"
+          title="Member - Oregon Blockchain Group:"
+          link="https://oregonblockchain.org/"
         />
       ),
       
       head2: "Sep 2022 - Nov 2023.",
       bulletPoints: [
-        "Researched and shared diverse facets of FinTech, Blockchain and Web3 technologies, analyzing their emergence and market trends, regulatory frameworks, etc.",
-        "participated in successful pitches and voting for various decentralized autonomous organization (DAO), contributing to club's investment in tokens and comprehensive portfolio management.",
+        "Researched and shared diverse facets of FinTech, Blockchain and Web3 technologies, analyzing their emergence and market trends, etc.",
+        "participated in pitches and voting for various decentralized autonomous organization (DAO), contributing to club's investment in tokens & comprehensive portfolio management.",
       ],
     },
 
@@ -80,7 +80,7 @@ export default async function ExtraSection() {
   ];
 
   return (
-    <Section title="Involvements">
+    <Section title="involvements">
       <div className="flex flex-col gap-y-1">
         {exp.map((e, index) => (
           <Experience key={index} {...e} />

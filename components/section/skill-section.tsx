@@ -3,48 +3,45 @@ import Section from "./section";
 export default function SkillSection() {
   return (
     <Section title="skills">
-      <div className="md:flex text-sm">
-        <div className="w-32 flex-shrink-0 flex justify-between">
-          <span className="font-bold">Programming</span>:
-        </div>
-        <div className="md:ml-8 text-zinc-700 dark:text-zinc-300">
-          JavaScript, Python, C/C++
+      <div className="md:flex items-center flex-nowrap text-sm">
+        <div className="min-w-[8rem] flex-shrink-0 flex ">
+          <span className="font-bold mr-2">Programming</span>: <span className="lg:ml-9 text-zinc-700 dark:text-zinc-300 ml-2">  Python, JavaScript,  C/C++ </span>
         </div>
       </div>
 
-      <div className="md:flex text-sm">
-        <div className="w-32 flex-shrink-0 flex justify-between">
-          <span className="font-bold"> Frontend Tech </span>:
-        </div>
-        <div className="md:ml-8 text-zinc-700 dark:text-zinc-300">
-          Semantic HTML, Tailwind CSS, React Js, Material UI
+      <div className="md:flex items-center flex-nowrap text-sm">
+        <div className="min-w-[8rem] flex-shrink-0 flex">
+          <span className="font-bold mr-2"> Frontend Tech </span>:
+        <span className="lg:ml-8 text-zinc-700 dark:text-zinc-300 ml-2">
+        HTML, Tailwind CSS, React Js, Material UI
+        </span>
         </div>
       </div>
 
-      <div className="md:flex text-sm">
-        <div className="w-32 flex-shrink-0 flex justify-between">
-          <span className="font-bold">Backend Tech</span>:
-        </div>
-        <div className="md:ml-8 text-zinc-700 dark:text-zinc-300">
+      <div className="md:flex items-center flex-nowrap text-sm">
+        <div className="min-w-[8rem] flex-shrink-0 flex">
+          <span className="font-bold mr-2">Backend Tech</span>:
+        <span className="lg:ml-9 text-zinc-700 dark:text-zinc-300 ml-2">
           Node Js, C/C++, Express Js
+        </span>
         </div>
       </div>
 
-      <div className="md:flex text-sm">
-        <div className="w-32 flex-shrink-0 flex justify-between">
-          <span className="font-bold"> Data Technology </span>:
-        </div>
-        <div className="md:ml-8 text-zinc-700 dark:text-zinc-300">
-          R-language, Machine Learning, PostgreSQL, MongoDB, A/B Testing
+      <div className="md:flex items-center flex-nowrap text-sm">
+        <div className="min-w-[8rem] flex-shrink-0 flex">
+          <span className="font-bold mr-2"> Data Technology </span>:
+        <span className="lg:ml-4 text-zinc-700 dark:text-zinc-300 ml-2">
+          R, regression (ML), PostgreSQL, MongoDB, MySQL
+        </span>
         </div>
       </div>
 
-      <div className="md:flex text-sm">
-        <div className="w-32 flex-shrink-0 flex justify-between">
-          <span className="font-bold"> Other Skills/Tools</span>:
-        </div>
-        <div className="md:ml-8 text-zinc-700 dark:text-zinc-300">
-          Git, Github, Vscode, Restful APIs, OAuth, SQL Injection
+      <div className="md:flex items-center flex-nowrap text-sm">
+        <div className="min-w-[8rem] flex-shrink-0 flex">
+          <span className="font-bold mr-2"> Other Skills/Tools</span>:
+        <span className="lg:ml-3 text-zinc-700 dark:text-zinc-300 ml-2">
+         Restful APIs, Git, Github, Vscode, OAuth, SQL Injection
+          </span>
         </div>
       </div>
     </Section>
